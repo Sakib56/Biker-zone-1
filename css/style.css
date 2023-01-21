@@ -1,0 +1,14 @@
+/* header section */
+.header-bg-color{
+    background-color:  #264653;
+}
+.btn-bg{
+    background-color: #E76F51;
+    border: 0;
+}
+.title-color{
+    color: #E76F51;
+}
+.feature-bike-img{
+    filter: grayscale(50);
+}
